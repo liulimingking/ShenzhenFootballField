@@ -1,6 +1,7 @@
 # 深圳足球场查找网站
-
 Vue 3 + Go Gin 前后端分离项目，帮助深圳用户查找附近足球场。
+![alt text](frontend/image.png)
+
 
 ## 项目结构
 
